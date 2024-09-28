@@ -1,10 +1,11 @@
 # FILES IGNORATED
-/shelf/
-/git_toolbox_blame.xml
-/git_toolbox_prj.xml
-/misc.xml
-/modules.xml
-/trilha-python-dio.iml
-/vcs.xml
-/workspace.xml
+/ .idea
+#/shelf/
+#/git_toolbox_blame.xml
+#/git_toolbox_prj.xml
+#/misc.xml
+#/modules.xml
+#/trilha-python-dio.iml
+#/vcs.xml
+#/workspace.xml
 
