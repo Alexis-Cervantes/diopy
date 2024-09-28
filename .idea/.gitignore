@@ -1,11 +1,14 @@
 # FILES IGNORATED
-.idea/
 #/shelf/
+.idea/
+#inspectionProfiles/
+#.gitattributes
+#/.gitignore
+#/diopy.iml
 #/git_toolbox_blame.xml
 #/git_toolbox_prj.xml
 #/misc.xml
 #/modules.xml
-#/trilha-python-dio.iml
 #/vcs.xml
 #/workspace.xml
 
