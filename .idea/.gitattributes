@@ -1,0 +1,11 @@
+# warning: in the working copy of '.idea/x/y.xml', LF will be replaced by CRLF the next time Git touches it
+* text=auto
+
+# Define finais de linha para Python (Unix)
+*.py text eol=lf
+
+# Define finais de linha para arquivos de configuração
+*.cfg text eol=lf
+
+# Define finais de linha para arquivos de dados
+*.csv text eol=lf
