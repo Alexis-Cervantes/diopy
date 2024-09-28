@@ -1,5 +1,5 @@
 # FILES IGNORATED
-/ .idea
+.idea/
 #/shelf/
 #/git_toolbox_blame.xml
 #/git_toolbox_prj.xml
