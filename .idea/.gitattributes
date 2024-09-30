@@ -1,5 +1,5 @@
-# warning: in the working copy of '.idea/x/y.xml', LF will be replaced by CRLF the next time Git touches it
-* text=auto
+# adding commads in ".gitattributes" to solve the out when add "add ." command.
+## warning: in the working copy of '.idea/x/y.xml', LF will be replaced by CRLF the next time Git touches it
 
 # Define finais de linha para Python (Unix)
 *.py text eol=lf
