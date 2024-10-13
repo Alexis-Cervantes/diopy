@@ -1,5 +1,6 @@
 menu = """Seja Bem-vindo(a) - Para continuar escolha uma opção:
 [D] depositar    [S] sacar    [E] extrato    [Q] sair : """
+criar_conta = """Vamos criar sua nova conta"""
 
 saldo = 0
 extrato = ""
