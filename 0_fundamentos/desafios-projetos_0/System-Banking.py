@@ -11,6 +11,7 @@ numero_saques = 0
 LIMITE_SAQUES = 3
 user_name = ''
 account_number = 260674
+while True:
 
 while True:
     opcao = input(internal_menu)

@@ -1,6 +1,6 @@
+"""O Sistema pede as 03 notas de 03 alunos e mostra a MEDIA de cada um deles"""
 num_alunos = 3
 num_notas = 3
-
 # Contador para o número de alunos
 aluno = 0
 
